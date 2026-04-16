@@ -24,6 +24,7 @@ public class SubArraySum {
     // Ignore Case : 
         // (-ve) + (-ve) = (-ve)
         // (-ve) + small (+ve) = (-ve)
+        
     public static int kadansAlgo(int arr[]){
         int cs = 0;
         int ms = Integer.MIN_VALUE;
